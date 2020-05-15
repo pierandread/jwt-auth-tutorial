@@ -1,5 +1,5 @@
 # jwt-auth-tutoria
-following tutorial at //following tutorial at: https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens#toc-developing-the-user-model
+following tutorial at : https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens#toc-developing-the-user-model
 
 usage: postman -> http://localhost:3000/api/v1/*
 users -> get (call get all, accessable only with "admin" user) 
